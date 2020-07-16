@@ -1,0 +1,36 @@
+<package>
+    <id>me.lightmann.stripecount</id>
+    <name>StripeCount</name>
+    <version>1.0.2</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13.0</miniOS>
+            <maxiOS>13.6</maxiOS>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate</dependencies>
+    <descriptionlist>
+        <description>See the number of installed packages at a glance</description>
+        <longdescription><![CDATA[
+	   <br>Tested on iOS 13 w/ Zebra v1.1.10 (however it should work on earlier versions)
+	   <br>
+	   <br>*There are no options to configure, it just works!*
+	   <br>
+	   <br>Open source on my <a href="https://github.com/UsrLightmann/StripeCount">github</a><br/>
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>stripecount1.png</image>
+        </screenshot>
+        <screenshot>
+            <image>stripecount2.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+        <change>New position (which no longer bugs)</change>
+	<change>Added RTL language device support</change>
+	<change>More reliable method</change>
+    </changelog>
+    <links></links>
+</package>

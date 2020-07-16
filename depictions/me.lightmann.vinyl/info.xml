@@ -1,0 +1,58 @@
+<package>
+   <id>me.lightmann.vinyl</id>
+    <name>Vinyl</name>
+    <version>1.0.7</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13.0</miniOS>
+            <maxiOS>13.6</maxiOS>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate</dependencies>
+    <dependencies>preferenceloader</dependencies>
+    <descriptionlist>
+        <description>Brings a simple look to the lockscreen music player and allows users to:</description>
+        <longdescription><![CDATA[
+		<br>· Selectively show the progress bar, volume bar, or both
+		<br>· Toggle visibility of the connectivity button
+		<br>· Adjust the player and artwork corner radius incrementally
+		<br>· Adjust the player's background opacity incrementally
+		<br>· Change the color of the player's text and controls (black/white)
+		<br>
+		<br>~ This tweak has native support for RTL language devices!  
+		<br>
+		<br>*These options are congurable from within the settings app and DO require a respring in order to take effect!*<br/>
+		<br>Open source on my <a href="https://github.com/UsrLightmann/Vinyl">github</a><br/>
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>vinyl1.png</image>
+        </screenshot>
+	<screenshot>
+	    <image>vinyl2.png</image>
+        </screenshot>
+	<screenshot>
+	    <image>vinyl3.png</image>
+        </screenshot>
+	<screenshot>
+	    <image>vinyl4.png</image>
+        </screenshot>
+	<screenshot>
+	    <image>vinyl5.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+	<change>Almost entirely rewritten</change>
+	<change>Serious code cleanup</change>
+	<change>Fixed bug where album art would move occasionally (causing issues with tweaks like LastLook)</change>
+	<change>Fixed routing button position being off</change>
+	<change>Removed some real-time changes in favor of better, more reliable methods</change>
+	<change>New slider position (static, not dynamic)</change>
+	<change>Added option to disable forced uppercase for the route label (thanks Fadexz_ for the suggestion)</change>
+	<change>Adjusted placeholder artwork size, artwork background, and shadow</change>
+	<change>Fixed color issues with progress slider</change>
+	<change>Open sourced</change>
+    </changelog>
+    <links></links>
+</package>

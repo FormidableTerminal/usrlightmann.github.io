@@ -1,0 +1,15 @@
+<changelog>
+	<changes>
+		<version>1.0.7</version>
+		<change>Almost entirely rewritten</change>
+		<change>Serious code cleanup</change>
+		<change>Fixed bug where album art would move occasionally (causing issues with tweaks like LastLook)</change>
+		<change>Fixed routing button position being off</change>
+		<change>Removed some real-time changes in favor of better, more reliable methods</change>
+		<change>New slider position (static, not dynamic)</change>
+		<change>Added option to disable forced uppercase for the route label (thanks Fadexz_ for the suggestion)</change>
+		<change>Adjusted placeholder artwork size, artwork background, and shadow</change>
+		<change>Fixed color issues with progress slider</change>
+		<change>Open sourced</change>
+	</changes>
+</changelog>

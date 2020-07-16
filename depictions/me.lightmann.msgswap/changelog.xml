@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>2.0.0.1</version>
+		<change>Fixed iOS 12 support (minor code changes - huge thanks to Marat for helping me debug and test)</change>
+	</changes>
+</changelog>

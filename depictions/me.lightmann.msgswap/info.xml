@@ -1,0 +1,33 @@
+<package>
+   <id>me.lightmann.msgswap</id>
+    <name>MsgSwap</name>
+    <version>2.0.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <maxiOS>13.6</maxiOS>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate</dependencies>
+    <descriptionlist>
+        <description>A more accessible way to send photos in iMessage</description>
+        <longdescription><![CDATA[
+            <br>To access the camera button functionality simply longpress on the photos cell 
+	    <br>
+	    <br>*There are no options to configure, it just works!*<br/>
+   	    <br>Open source on my <a href="https://github.com/UsrLightmann/MsgSwap">github</a><br/>
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>msgswap1.png</image>
+        </screenshot>
+        <screenshot>
+            <image>msgswap2.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+       <change>Fixed iOS 12 support (minor code changes - huge thanks to Marat for helping me debug and test)</change>
+    </changelog>
+    <links></links>
+</package>
