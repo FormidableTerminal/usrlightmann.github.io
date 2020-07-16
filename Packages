@@ -6,9 +6,9 @@ Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/me.lightmann.aeaea_1.0.0-1_iphoneos-arm.deb
 Size: 335572
-MD5sum: 926F5069ECDB84DFDA7CDB010946C1BA
-SHA1: EDF6CFC5EBA34E7334CFAB365E9BD756FB518815
-SHA256: 702FD3F24C2C658FE0CC08796FA29CC260CF529768E632E4E3E0291CF78C13C8
+MD5sum: 926f5069ecdb84dfda7cdb010946c1ba
+SHA1: edf6cfc5eba34e7334cfab365e9bd756fb518815
+SHA256: 702fd3f24c2c658fe0cc08796fa29cc260cf529768e632e4e3e0291cf78c13c8
 Description: Cleans up notifications and widgets
 Name: Aeaea
 Author: Lightmann <lightmanns11@gmail.com>
@@ -22,9 +22,9 @@ Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/me.lightmann.vinyl_1.0.7-1_iphoneos-arm.deb
 Size: 320094 
-MD5sum: FF511244281F79AC4FB9A787F8C2F8F0
-SHA1: D79673046D0E9FEE4960F6A77FEE1CD161F00902
-SHA256: 0B1E75CC4BDE6BDB7F4C04A63FE4646C56EFF66FF90156910BAE59D20A86425F
+MD5sum: ff511244281f79ac4fb9a787f8c2f8f0
+SHA1: d79673046d0e9fee4960f6a77fee1cd161f00902
+SHA256: 0b1e75cc4bde6bdb7f4c04a63fe4646c56eff66ff90156910bae59d20a86425f
 Description: A simple look for the lockscreen music player
 Name: Vinyl
 Author: Lightmann <lightmanns11@gmail.com>
@@ -38,9 +38,9 @@ Depends: firmware (>=11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/me.lightmann.msgswap_2.0.0.1-1_iphoneos-arm.deb
 Size: 12926 
-MD5sum: D93846702483ACE200ECDE1E8D7D4243
-SHA1: 6F5C02B54B9EAAD24234FD7620F35767AF1231FD
-SHA256: 7F802FB8C1E9B3AE0E1082A20B6E4A733622379455E35818E806DC32B2F2A61F
+MD5sum: d93846702483ace200ecde1e8d7d4243
+SHA1: 6f5c02b54b9eaad24234fd7620f35767af1231fd
+SHA256: 7f802fb8c1e9b3ae0e1082a20b6e4a733622379455e35818e806dc32b2f2a61f
 Description: A more accessible way to send photos in iMessage
 Name: MsgSwap
 Author: Lightmann <lightmanns11@gmail.com>
@@ -54,9 +54,9 @@ Depends: firmware (>=13.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/me.lightmann.stripecount_1.0.2-1_iphoneos-arm.deb
 Size: 5080 
-MD5sum: A88BE23AD92D4EE348E28F26D9D979DD
-SHA1: 6A705ADFA4F5A4C9052F888A68B4610BF2A3AB05
-SHA256: 41FA34A7F9661824D179B133C8DCA59EB613A5421BDD3D443AD53F86DC536BB2
+MD5sum: a88be23ad92d4ee348e28f26d9d979dd
+SHA1: 6a705adfa4f5a4c9052f888a68b4610bf2a3ab05
+SHA256: 41fa34a7f9661824d179b133c8dca59eb613a5421bdd3d443ad53f86dc536bb2
 Description: For Zebra - See the number of installed packages at a glance
 Name: StripeCount
 Author: Lightmann <lightmanns11@gmail.com>
