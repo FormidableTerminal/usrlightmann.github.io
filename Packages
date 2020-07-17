@@ -1,64 +1,71 @@
 Package: me.lightmann.aeaea
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Lightmann <lightmanns11@gmail.com>
-Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Version: 1.0.0
 Architecture: iphoneos-arm
-Filename: ./debs/me.lightmann.aeaea_1.0.0-1_iphoneos-arm.deb
-Size: 335572
-MD5sum: 926f5069ecdb84dfda7cdb010946c1ba
-SHA1: edf6cfc5eba34e7334cfab365e9bd756fb518815
-SHA256: 702fd3f24c2c658fe0cc08796fa29cc260cf529768e632e4e3e0291cf78c13c8
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: me.lightmann.transparentnotif, me.lightmann.clearwidgets
+Filename: ./debs/me.lightmann.aeaea_1.0.0_iphoneos-arm.deb
+Size: 333056
+MD5sum: f5f993abc60dd7bc780e9b25ac05cd90
+SHA1: 88177b3fbfe37872e7eda2b07adf97dc64897546
+SHA256: 5071a6776fd1e75edb1c36eb3afeb120ff597b8bf05231219558e3a93a51c648
+Section: Tweaks
 Description: Cleans up notifications and widgets
-Name: Aeaea
 Author: Lightmann <lightmanns11@gmail.com>
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.aeaea
+Icon: file:///Library/PreferenceBundles/AeaeaPrefs.bundle/icon@3x.png
+Name: Aeaea
 
 Package: me.lightmann.vinyl
-Version: 1.0.7-1
-Section: Tweaks
-Maintainer: Lightmann <lightmanns11@gmail.com>
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Version: 1.0.7
 Architecture: iphoneos-arm
-Filename: ./debs/me.lightmann.vinyl_1.0.7-1_iphoneos-arm.deb
-Size: 320094 
-MD5sum: ff511244281f79ac4fb9a787f8c2f8f0
-SHA1: d79673046d0e9fee4960f6a77fee1cd161f00902
-SHA256: 0b1e75cc4bde6bdb7f4c04a63fe4646c56eff66ff90156910bae59d20a86425f
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 672
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/me.lightmann.vinyl_1.0.7_iphoneos-arm.deb
+Size: 316260 
+MD5sum: c75b3368df4f465416f5049b3e78fea2
+SHA1: bf406c5d55313542403831aa82d9e09e7ff9edb9
+SHA256: 77a0a15740549e5e0036cbad1c846f94d4f6699f1cc6680d345fdccb74d7e25a
+Section: Tweaks
 Description: A simple look for the lockscreen music player
-Name: Vinyl
 Author: Lightmann <lightmanns11@gmail.com>
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+Icon: file:///Library/PreferenceBundles/VinylPrefs.bundle/icon@3x.png
+Name: Vinyl
 
 Package: me.lightmann.msgswap
-Version: 2.0.0.1-1
-Section: Tweaks
-Maintainer: Lightmann <lightmanns11@gmail.com>
-Depends: firmware (>=11.0), mobilesubstrate
+Version: 2.0.0.1
 Architecture: iphoneos-arm
-Filename: ./debs/me.lightmann.msgswap_2.0.0.1-1_iphoneos-arm.deb
-Size: 12926 
-MD5sum: d93846702483ace200ecde1e8d7d4243
-SHA1: 6f5c02b54b9eaad24234fd7620f35767af1231fd
-SHA256: 7f802fb8c1e9b3ae0e1082a20b6e4a733622379455e35818e806dc32b2f2a61f
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 140
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/me.lightmann.msgswap_2.0.0.1_iphoneos-arm.deb
+Size: 12390  
+MD5sum: 4038ec0590652595c24a35fa1ceafdc2
+SHA1: 5564aee997824e5e913d6e63a227d973868e1aa4
+SHA256: 7c99927b7d6bc54760ac2d10fb74b20ca4f65972a250d224a2f9598c796ce388
+Section: Tweaks
 Description: A more accessible way to send photos in iMessage
-Name: MsgSwap
 Author: Lightmann <lightmanns11@gmail.com>
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
+Name: MsgSwap
 
 Package: me.lightmann.stripecount
-Version: 1.0.2-1
-Section: Tweaks
-Maintainer: Lightmann <lightmanns11@gmail.com>
-Depends: firmware (>=13.0), mobilesubstrate
+Version: 1.0.2
 Architecture: iphoneos-arm
-Filename: ./debs/me.lightmann.stripecount_1.0.2-1_iphoneos-arm.deb
-Size: 5080 
-MD5sum: a88be23ad92d4ee348e28f26d9d979dd
-SHA1: 6a705adfa4f5a4c9052f888a68b4610bf2a3ab05
-SHA256: 41fa34a7f9661824d179b133c8dca59eb613a5421bdd3d443ad53f86dc536bb2
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 136
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/me.lightmann.stripecount_1.0.2_iphoneos-arm.deb
+Size: 4936 
+MD5sum: 17d1b05881a66f93cc4d36fcb4fb3da2
+SHA1: 66f005dfc3f5f226c500b339007d94f5d7860f19
+SHA256: 041992bf77da926223603ea0e2d8731407ee787a85aa6bf33fcaa743366e7dd9
+Section: Tweaks
 Description: For Zebra - See the number of installed packages at a glance
-Name: StripeCount
 Author: Lightmann <lightmanns11@gmail.com>
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.stripecount
+Name: StripeCount
 
