@@ -18,16 +18,16 @@ Icon: file:///Library/PreferenceBundles/AeaeaPrefs.bundle/icon@3x.png
 Name: Aeaea
 
 Package: me.lightmann.vinyl
-Version: 1.0.7
+Version: 1.0.7.1
 Architecture: iphoneos-arm
 Maintainer: Lightmann <lightmanns11@gmail.com>
 Installed-Size: 672
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debs/me.lightmann.vinyl_1.0.7_iphoneos-arm.deb
-Size: 316260 
-MD5sum: c75b3368df4f465416f5049b3e78fea2
-SHA1: bf406c5d55313542403831aa82d9e09e7ff9edb9
-SHA256: 77a0a15740549e5e0036cbad1c846f94d4f6699f1cc6680d345fdccb74d7e25a
+Filename: ./debs/me.lightmann.vinyl_1.0.7.1_iphoneos-arm.deb
+Size: 316122 
+MD5sum: 2188bd6f764b9e91c5e5c208bd4f9f2f
+SHA1: 1b297ce967b131164bae6f2f398a85d820b80478
+SHA256: 804fb068528cbb9e38a52bbf6fdb302c348280a051b94f03451dcb1db7b97ed0
 Section: Tweaks
 Description: A simple look for the lockscreen music player
 Author: Lightmann <lightmanns11@gmail.com>

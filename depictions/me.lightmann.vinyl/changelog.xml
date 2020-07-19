@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.7.1</version>
+		<change>Fixed framing for small form factor devices (namely the Gen 1 SE)</change>
+	</changes>
+	<changes>
 		<version>1.0.7</version>
 		<change>Almost entirely rewritten</change>
 		<change>Serious code cleanup</change>
