@@ -1,7 +1,7 @@
 <package>
    <id>me.lightmann.msgswap</id>
     <name>MsgSwap</name>
-    <version>2.0.0.1</version>
+    <version>2.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -27,7 +27,8 @@
         </screenshot>
     </screenshots>
     <changelog>
-       <change>Fixed iOS 12 support (minor code changes - huge thanks to Marat for helping me debug and test)</change>
+	<change>Fixed cell pop-up delay when switching conversations</change>
+	<change>Mostly fixed cell isSelected issue</change>
     </changelog>
     <links></links>
 </package>

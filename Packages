@@ -36,16 +36,16 @@ Icon: file:///Library/PreferenceBundles/VinylPrefs.bundle/icon@3x.png
 Name: Vinyl
 
 Package: me.lightmann.msgswap
-Version: 2.0.0.1
+Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Lightmann <lightmanns11@gmail.com>
 Installed-Size: 140
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/me.lightmann.msgswap_2.0.0.1_iphoneos-arm.deb
-Size: 12390  
-MD5sum: 4038ec0590652595c24a35fa1ceafdc2
-SHA1: 5564aee997824e5e913d6e63a227d973868e1aa4
-SHA256: 7c99927b7d6bc54760ac2d10fb74b20ca4f65972a250d224a2f9598c796ce388
+Filename: ./debs/me.lightmann.msgswap_2.0.1_iphoneos-arm.deb
+Size: 12186  
+MD5sum: 700f4d08b8b2510e3de85657be9d549f
+SHA1: af6b13e72fca305d1935c8c4865d52ba6f5fca83
+SHA256: 9bde267da7b5a020520812ad8f9569b00ebb5617cf69873b64ba4cc09a1a6ab5
 Section: Tweaks
 Description: A more accessible way to send photos in iMessage
 Author: Lightmann <lightmanns11@gmail.com>
