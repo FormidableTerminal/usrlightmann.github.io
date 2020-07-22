@@ -1,15 +1,15 @@
 Package: me.lightmann.aeaea
-Version: 1.0.0
+Version: 1.0.0.1
 Architecture: iphoneos-arm
 Maintainer: Lightmann <lightmanns11@gmail.com>
 Installed-Size: 708
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: me.lightmann.transparentnotif, me.lightmann.clearwidgets
-Filename: ./debs/me.lightmann.aeaea_1.0.0_iphoneos-arm.deb
-Size: 333056
-MD5sum: f5f993abc60dd7bc780e9b25ac05cd90
-SHA1: 88177b3fbfe37872e7eda2b07adf97dc64897546
-SHA256: 5071a6776fd1e75edb1c36eb3afeb120ff597b8bf05231219558e3a93a51c648
+Filename: ./debs/me.lightmann.aeaea_1.0.0.1_iphoneos-arm.deb
+Size: 333150
+MD5sum: d06b33b20a3b736b13c38dcd2e5d4f24
+SHA1: 5a603c75369021d1600bb04e193621bbce03af1f
+SHA256: 06e248b0ab6bf8d3cc1baec64ce1915a31ef725b566d2bd8313b549a7ee028f4
 Section: Tweaks
 Description: Cleans up notifications and widgets
 Author: Lightmann <lightmanns11@gmail.com>
@@ -18,16 +18,16 @@ Icon: file:///Library/PreferenceBundles/AeaeaPrefs.bundle/icon@3x.png
 Name: Aeaea
 
 Package: me.lightmann.vinyl
-Version: 1.0.7.1
+Version: 1.0.7.2
 Architecture: iphoneos-arm
 Maintainer: Lightmann <lightmanns11@gmail.com>
 Installed-Size: 672
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debs/me.lightmann.vinyl_1.0.7.1_iphoneos-arm.deb
-Size: 316122 
-MD5sum: 2188bd6f764b9e91c5e5c208bd4f9f2f
-SHA1: 1b297ce967b131164bae6f2f398a85d820b80478
-SHA256: 804fb068528cbb9e38a52bbf6fdb302c348280a051b94f03451dcb1db7b97ed0
+Filename: ./debs/me.lightmann.vinyl_1.0.7.2_iphoneos-arm.deb
+Size: 316356 
+MD5sum: 4fa1082b8ab658b05ab0e1a5c98fda48
+SHA1: 26d23f090f3800327ef9887a843d6dbfa137456a
+SHA256: 0fcece99d2dc216928a2c38f8e09595cb8419a25fd156ce3a47b799fd8f7ca7a
 Section: Tweaks
 Description: A simple look for the lockscreen music player
 Author: Lightmann <lightmanns11@gmail.com>
