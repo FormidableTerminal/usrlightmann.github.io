@@ -1,71 +1,138 @@
 Package: me.lightmann.aeaea
 Version: 1.0.0.1
-Architecture: iphoneos-arm
-Maintainer: Lightmann <lightmanns11@gmail.com>
-Installed-Size: 708
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader
 Conflicts: me.lightmann.transparentnotif, me.lightmann.clearwidgets
+Architecture: iphoneos-arm
 Filename: ./debs/me.lightmann.aeaea_1.0.0.1_iphoneos-arm.deb
 Size: 333150
+Installed-Size: 708
 MD5sum: d06b33b20a3b736b13c38dcd2e5d4f24
 SHA1: 5a603c75369021d1600bb04e193621bbce03af1f
 SHA256: 06e248b0ab6bf8d3cc1baec64ce1915a31ef725b566d2bd8313b549a7ee028f4
-Section: Tweaks
-Description: Cleans up notifications and widgets
-Author: Lightmann <lightmanns11@gmail.com>
-Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.aeaea
-Icon: file:///Library/PreferenceBundles/AeaeaPrefs.bundle/icon@3x.png
+Description: Cleans up notification banners and widget platters.
 Name: Aeaea
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.aeaea
 
-Package: me.lightmann.vinyl
-Version: 1.0.7.2
-Architecture: iphoneos-arm
-Maintainer: Lightmann <lightmanns11@gmail.com>
-Installed-Size: 672
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debs/me.lightmann.vinyl_1.0.7.2_iphoneos-arm.deb
-Size: 316356 
-MD5sum: 4fa1082b8ab658b05ab0e1a5c98fda48
-SHA1: 26d23f090f3800327ef9887a843d6dbfa137456a
-SHA256: 0fcece99d2dc216928a2c38f8e09595cb8419a25fd156ce3a47b799fd8f7ca7a
+Package: me.lightmann.aeaea
+Version: 1.0.0
 Section: Tweaks
-Description: A simple look for the lockscreen music player
-Author: Lightmann <lightmanns11@gmail.com>
-Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
-Icon: file:///Library/PreferenceBundles/VinylPrefs.bundle/icon@3x.png
-Name: Vinyl
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader
+Conflicts: me.lightmann.transparentnotif, me.lightmann.clearwidgets
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.aeaea_1.0.0_iphoneos-arm.deb
+Size: 333056
+Installed-Size: 708
+MD5sum: f5f993abc60dd7bc780e9b25ac05cd90
+SHA1: 88177b3fbfe37872e7eda2b07adf97dc64897546
+SHA256: 5071a6776fd1e75edb1c36eb3afeb120ff597b8bf05231219558e3a93a51c648
+Description: Cleans up notification banners and widget platters.
+Name: Aeaea
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.aeaea
+
+Package: me.lightmann.msgswap
+Version: 2.0.0.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.msgswap_2.0.0.1_iphoneos-arm.deb
+Size: 12390
+Installed-Size: 140
+MD5sum: 4038ec0590652595c24a35fa1ceafdc2
+SHA1: 5564aee997824e5e913d6e63a227d973868e1aa4
+SHA256: 7c99927b7d6bc54760ac2d10fb74b20ca4f65972a250d224a2f9598c796ce388
+Description: A more accessible way to send photos in iMessage.
+Name: MsgSwap
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
 
 Package: me.lightmann.msgswap
 Version: 2.0.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
-Maintainer: Lightmann <lightmanns11@gmail.com>
-Installed-Size: 140
-Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/me.lightmann.msgswap_2.0.1_iphoneos-arm.deb
-Size: 12186  
+Size: 12186
+Installed-Size: 136
 MD5sum: 700f4d08b8b2510e3de85657be9d549f
 SHA1: af6b13e72fca305d1935c8c4865d52ba6f5fca83
 SHA256: 9bde267da7b5a020520812ad8f9569b00ebb5617cf69873b64ba4cc09a1a6ab5
-Section: Tweaks
-Description: A more accessible way to send photos in iMessage
-Author: Lightmann <lightmanns11@gmail.com>
-Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
+Description: A more accessible way to send photos in iMessage.
 Name: MsgSwap
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
 
 Package: me.lightmann.stripecount
 Version: 1.0.2
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
 Architecture: iphoneos-arm
-Maintainer: Lightmann <lightmanns11@gmail.com>
-Installed-Size: 136
-Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/me.lightmann.stripecount_1.0.2_iphoneos-arm.deb
-Size: 4936 
+Size: 4936
+Installed-Size: 136
 MD5sum: 17d1b05881a66f93cc4d36fcb4fb3da2
 SHA1: 66f005dfc3f5f226c500b339007d94f5d7860f19
 SHA256: 041992bf77da926223603ea0e2d8731407ee787a85aa6bf33fcaa743366e7dd9
-Section: Tweaks
-Description: For Zebra - See the number of installed packages at a glance
-Author: Lightmann <lightmanns11@gmail.com>
-Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.stripecount
+Description: For Zebra - See the number of installed packages at a glance.
 Name: StripeCount
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.stripecount
+
+Package: me.lightmann.vinyl
+Version: 1.0.7.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7.1_iphoneos-arm.deb
+Size: 316122
+Installed-Size: 672
+MD5sum: 2188bd6f764b9e91c5e5c208bd4f9f2f
+SHA1: 1b297ce967b131164bae6f2f398a85d820b80478
+SHA256: 804fb068528cbb9e38a52bbf6fdb302c348280a051b94f03451dcb1db7b97ed0
+Description: A simplified look for the lockscreen music player!
+Name: Vinyl
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+
+Package: me.lightmann.vinyl
+Version: 1.0.7.2
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7.2_iphoneos-arm.deb
+Size: 316356
+Installed-Size: 672
+MD5sum: 4fa1082b8ab658b05ab0e1a5c98fda48
+SHA1: 26d23f090f3800327ef9887a843d6dbfa137456a
+SHA256: 0fcece99d2dc216928a2c38f8e09595cb8419a25fd156ce3a47b799fd8f7ca7a
+Description: A simplified look for the lockscreen music player!
+Name: Vinyl
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+
+Package: me.lightmann.vinyl
+Version: 1.0.7
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7_iphoneos-arm.deb
+Size: 316260
+Installed-Size: 672
+MD5sum: c75b3368df4f465416f5049b3e78fea2
+SHA1: bf406c5d55313542403831aa82d9e09e7ff9edb9
+SHA256: 77a0a15740549e5e0036cbad1c846f94d4f6699f1cc6680d345fdccb74d7e25a
+Description: A simplified look for the lockscreen music player!
+Name: Vinyl
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
 
