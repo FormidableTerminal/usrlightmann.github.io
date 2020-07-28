@@ -1,0 +1,38 @@
+<package>
+   <id>me.lightmann.quorra</id>
+    <name>Quorra</name>
+    <version>1.0.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13.0</miniOS>
+            <maxiOS>13.6</maxiOS>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate</dependencies>
+    <descriptionlist>
+        <description>iOS 14 indicator dots brought to iOS 13</description>
+        <longdescription><![CDATA[
+            <br>Green = GPS in use
+	    <br>Yellow = Microphone in use
+	    <br>Red = Camera in use
+	    <br>
+	    <br>*There are no options to configure, it just works!*<br/>
+   	    <br>Open source on my <a href="https://github.com/UsrLightmann/Quorra">github</a><br/>
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>quorra1.png</image>
+        </screenshot>
+        <screenshot>
+            <image>quorra2.png</image>
+        </screenshot>
+        <screenshot>
+            <image>quorra3.png</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+	<change>Initial Release</change>
+    </changelog>
+    <links></links>
+</package>
