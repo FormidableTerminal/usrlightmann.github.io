@@ -1,7 +1,7 @@
 <package>
    <id>me.lightmann.quorra</id>
     <name>Quorra</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,12 +10,15 @@
     </compatibility>
     <dependencies>mobilesubstrate</dependencies>
     <descriptionlist>
-        <description>iOS 14 indicator dots brought to iOS 13</description>
+        <description>iOS 14's indicator dots brought to iOS 13</description>
         <longdescription><![CDATA[
             <br>Green = GPS in use
 	    <br>Yellow = Microphone in use
 	    <br>Red = Camera in use
 	    <br>
+	    <br>*If the GPS indicator (green dot) does not go away try disabling "location based alerts" in system services and respringing your device*
+ 	    <br>
+	    <br>~ This tweak DOES support devices with no notch
 	    <br>*There are no options to configure, it just works!*<br/>
    	    <br>Open source on my <a href="https://github.com/UsrLightmann/Quorra">github</a><br/>
         ]]></longdescription>
@@ -32,7 +35,8 @@
         </screenshot>
     </screenshots>
     <changelog>
-	<change>Initial Release</change>
+	<change>Fixed reason for apps crashing</change>
+	<change>Fixed camera flickering when the device was locked</change>
     </changelog>
     <links></links>
 </package>

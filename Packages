@@ -90,6 +90,24 @@ Author: Lightmann
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
 Icon: https://usrlightmann.github.io/icons/me.lightmann.quorra.png
 
+Package: me.lightmann.quorra
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.1_iphoneos-arm.deb
+Size: 18230
+Installed-Size: 168
+MD5sum: 4fa5ceb7adb0092fddbd4f2f26193f13
+SHA1: 8b2603dced962e8d804f8f787230f362c4e07ca9
+SHA256: 912e43d146ba9d074c1fc4dfaf78e134376a14b6a602b456a3e10c0e6c83142d
+Description: Purpose: to help the User
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+Icon: https://usrlightmann.github.io/icons/me.lightmann.quorra.png
+
 Package: me.lightmann.stripecount
 Version: 1.0.2
 Section: Tweaks
