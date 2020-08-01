@@ -1,5 +1,13 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change>Fixed camera indicator not appearing for some users</change>
+		<change>Fixed indicators (in general) not appearing in apps when they should be</change>
+		<change>*For the lockscreen camera your device must be unlocked for the GPS to be used*</change>
+		<change>Fixed statusbar being affected by Quorra</change>
+		<change>Fixed rare crash caused by the lack of a root viewcontroller</change>
+	</changes>
+	<changes>
 		<version>1.0.1</version>
 		<change>Fixed reason for apps crashing</change>
 		<change>Fixed camera flickering when the device was locked</change>
